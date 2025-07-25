@@ -1,4 +1,4 @@
-# Rimjhim_AI RIMJHIM AI
+# Rimjhim AI
 Intelligent Document Solutions
 
 Revolutionizing how businesses interact with their documents through 
